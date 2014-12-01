@@ -15,4 +15,4 @@ see wiki page:
 https://github.com/BrunoCombal/climate/wiki
 
 latest release:
-https://github.com/BrunoCombal/climate/releases/latest
+https://github.com/IOC-CODE/cmip5_projections/releases
